@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # keylog
 
 A simple keylogger for Linux written in C. The current version will attempt to detect your keyboard event file automatically. 
