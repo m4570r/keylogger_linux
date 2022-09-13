@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # keylog
 
 A simple keylogger for Linux written in C. The current version will attempt to detect your keyboard event file automatically. 
@@ -81,3 +82,7 @@ make
 
 This code was created entirely out of an interest in learning about linux keyboard events. It should never be used on any machine where you are not authorised to log keystrokes.
 
+=======
+# keylogger_linux
+Keylogger escrito en C para plataformas Linux
+>>>>>>> 8fadee64d2b57cb9548bd8826828e84d2817ff33
